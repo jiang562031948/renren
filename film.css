@@ -1,0 +1,104 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+html{
+    font-size: 31.25vw;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+header{
+    width: 100%;
+    height: 0.2rem;
+}
+.head{
+    margin-top: 0.05rem;
+    display: flex;
+    justify-content: space-between;
+}
+.kf{
+    width: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.head h3{
+    margin-left: 0.09rem;
+    font-size: 0.06rem;
+    color: #a1a1a1;
+    font-weight: 800;
+}
+.head span{
+    margin-right: 0.05rem;
+    font-size: 0.1rem;
+    font-weight: 900;
+}
+.kefu{
+    width: 0.3rem;
+    border-radius: 0.15rem;
+    display: flex;
+    align-items: center;
+}
+.kefu i{
+    color: #a1a1a1;
+}
+main{
+    width: 100%;
+    flex: 1;
+    overflow: auto;
+}
+.big{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    overflow-x: auto;
+}
+.nav{
+    width: 100%;
+    margin-top: 0.09rem;
+    overflow-x: auto;
+}
+.look{
+    width: 200%;
+    margin-left: 0.09rem;
+    display: flex;
+    color: #8d9194;
+}
+.bangdan{
+    width: 7%;
+    height: 0.16rem;
+    list-style: none;
+    font-size: 0.08rem;
+}
+.bangdan-left{
+    color: #1b94f1;
+    width: 0.5rem;
+    height: 0.16rem;
+    list-style: none;
+    font-size: 0.08rem;
+}
+.middle{
+    display: flex;
+    flex-wrap: wrap;
+}
+.picture{
+    display: flex;
+    flex-direction: column;
+    width: 0.95rem;
+    margin: 0.05rem;
+}
+.picture img{
+    border-radius: 0.09rem;
+    height: 1.6rem;
+}
+.picture p{
+    color: #cccccc;
+    font-size: 0.05rem;
+}

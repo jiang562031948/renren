@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6285182",
+      "name": "成就中心_画板 1",
+      "font_class": "chengjiuzhongxin_huaban",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6372806",
+      "name": "观看历史",
+      "font_class": "guankanlishi",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "7372587",
+      "name": "微博",
+      "font_class": "weibo-copy",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "7815603",
+      "name": "签到",
+      "font_class": "qiandao",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "11415653",
+      "name": "QQ (1)",
+      "font_class": "QQ",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "13416128",
+      "name": "我的收藏",
+      "font_class": "shoucang",
+      "unicode": "e510",
+      "unicode_decimal": 58640
+    },
+    {
+      "icon_id": "14659265",
+      "name": "帮助反馈",
+      "font_class": "bangzhufankui",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "14956658",
+      "name": "离线缓存",
+      "font_class": "lixianhuancun",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "16937054",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "17595371",
+      "name": "消 息",
+      "font_class": "xiaoxi",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "18111489",
+      "name": "抖音",
+      "font_class": "douyin",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "18656539",
+      "name": "游戏",
+      "font_class": "hanhan-01-01",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "19788997",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    }
+  ]
+}
